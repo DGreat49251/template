@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.services,
+.products,
+.contact-us,
+.signup,
+.marketing,
+.consulting,
+.login {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.home,
+.services,
+.products,
+.contact-us,
+.signup,
+.marketing,
+.consulting,
+.login {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #000;
+  font-size: 100px;
+}
+.dahboard {
+  position: relative;
+  color: #000;
+  font-size: 100px;
+}
+a {
+  text-decoration: none;
+  color: unset;
+}

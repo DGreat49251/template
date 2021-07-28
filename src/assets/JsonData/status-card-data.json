@@ -1,0 +1,32 @@
+[
+  {
+    "display_name": "Products",
+    "route": "/products",
+    "icon": "bx bx-package",
+    "type": "default"
+  },
+  {
+    "display_name": "Orders",
+    "route": "/orders",
+    "icon": "bx bx-cart",
+    "type": "default"
+  },
+  {
+    "display_name": "cloud-Service",
+    "route": "/cloud-service",
+    "icon": "bx bx-cloud",
+    "type": "default"
+  },
+  {
+    "display_name": "billing",
+    "route": "/billing",
+    "icon": "bx bx-dollar",
+    "type": "submenu"
+  },
+  {
+    "display_name": "wallet",
+    "route": "/wallet",
+    "icon": "bx bx-wallet",
+    "type": "default"
+  }
+]

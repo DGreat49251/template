@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "bx bx-error",
+    "content": "User Notification One"
+  },
+  {
+    "icon": "bx bx-package",
+    "content": "User Notification Two"
+  },
+  {
+    "icon": "bx bx-cart",
+    "content": "User Notification Three"
+  },
+  {
+    "icon": "bx bx-error",
+    "content": "User Notification Four"
+  },
+  {
+    "icon": "bx bx-cart",
+    "content": "User Notification Five"
+  }
+]

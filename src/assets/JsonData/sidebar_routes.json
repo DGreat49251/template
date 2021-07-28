@@ -1,0 +1,44 @@
+[
+  {
+    "display_name": "User Home",
+    "route": "/dashboard/",
+    "icon": "fas fa-user-circle",
+    "type": "default"
+  },
+  {
+    "display_name": "Products",
+    "route": "/dashboard/products",
+    "icon": "fas fa-archive",
+    "type": "default"
+  },
+  {
+    "display_name": "Orders",
+    "route": "/dashboard/orders",
+    "icon": "fas fa-shopping-cart",
+    "type": "default"
+  },
+  {
+    "display_name": "cloud-Service",
+    "route": "/dashboard/cloud-service",
+    "icon": "fas fa-cloud",
+    "type": "default"
+  },
+  {
+    "display_name": "billing",
+    "route": "/dashboard/billing",
+    "icon": "fas fa-money-bill",
+    "type": "submenu"
+  },
+  {
+    "display_name": "wallet",
+    "route": "/dashboard/wallet",
+    "icon": "fas fa-wallet",
+    "type": "default"
+  },
+  {
+    "display_name": "settings",
+    "route": "/dashboard/settings",
+    "icon": "fas fa-user-cog",
+    "type": "default"
+  }
+]
